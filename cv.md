@@ -19,7 +19,7 @@ I'm glad that now I can combine what I like and what I get.
 ### __Education:__
 
 + Institute of Secondary Vocational Education of SPbPU ( web development);
-+ Full-time courses of Base C#: [DevEducation](https://deveducation.com); 
++ **Full-time courses of Base C#:** [DevEducation](https://deveducation.com); 
 + Courses on creating websites on the Tilde by Danila Fimushkina;
 + Self-study;
 ***
@@ -27,7 +27,35 @@ I'm glad that now I can combine what I like and what I get.
 ### __Work experience:__
 
 + I worked in fast food restaurants for 3 years;
-+ Freelance:  website for a cheese factory: [pitterina.ru](http://pitterina.ru/) (Tilda);
++ **Freelance:**  website for a cheese factory [pitterina.ru](http://pitterina.ru/) (Tilda);
 + Creation of a food safety management system;
 + Web designer trainee in the [Logologika studio](https://www.logologika.ru/);
+***
+
+### __Hard skills:__
+
++ C#, Java, JS, C++;
++ HTML-CSS, HTML5-CSS3;
++ Figma, Photoshop, Illustrator;
++ VS 2019, VS Code;
++ Git, GitHub, Git Extensions;
++ MS SQL Server;
++ TDD, Unit Testing;
++ SOLID;
+***
+
+### __Soft skills:__
+
++ Creative approach to completing tasks;
++ Emotional and intellectual flexibility;
++ Ability to work in a team;
++ The desire to perform complex tasks;
++ Planning my time;
+***
+
+### __Languages:__
+
+**My level of English:** A2.  
+**Language practice:** when I was 18, I went to Tunisia, where I spoke only English, my interlocutors had the same level of language as me, so it was not scary and there was no barrier. For more complex words and sentences, I had to use a translator, but rarely.  
+**My level of Korean language:** A1(Beginner).
 ***
