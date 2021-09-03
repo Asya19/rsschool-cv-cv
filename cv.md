@@ -4,7 +4,6 @@
 
 + 8-951-681-37-16
 + asya.kisko@yandex.ru
-***
 
 ### __About me:__
 
@@ -14,7 +13,6 @@
 While working in fast food, I got acquainted with the C# programming language during courses. I studied the backend. During the courses, we had projects: a CRM system and "Point". It was hard for me to study the Backend, but I really liked writing code (especially working) and creating incredible things with it. When we were making a CRM system, we touched on the topic of frontend development a little, but at that time everything was unclear. But this topic seemed to me more interesting, so I gave up trying to study the backend. I took courses on creating websites on Tilda and went freelance. But my desire to be a programmer and write code was stronger and I went to college to become a web programmer. Creating a website based on my layout using code has become much more interesting than in the constructor.
 
 I'm glad that now I can combine what I like and what I get.
-***
 
 ### __Education:__
 
@@ -22,7 +20,6 @@ I'm glad that now I can combine what I like and what I get.
 + **Full-time courses of Base C#:** [DevEducation](https://deveducation.com); 
 + Courses on creating websites on the Tilde by Danila Fimushkina;
 + Self-study;
-***
 
 ### __Work experience:__
 
@@ -30,7 +27,6 @@ I'm glad that now I can combine what I like and what I get.
 + **Freelance:**  website for a cheese factory [pitterina.ru](http://pitterina.ru/) (Tilda);
 + Creation of a food safety management system;
 + Web designer trainee in the [Logologika studio](https://www.logologika.ru/);
-***
 
 ### __Hard skills:__
 
@@ -42,7 +38,6 @@ I'm glad that now I can combine what I like and what I get.
 + MS SQL Server;
 + TDD, Unit Testing;
 + SOLID;
-***
 
 ### __Soft skills:__
 
@@ -51,11 +46,10 @@ I'm glad that now I can combine what I like and what I get.
 + Ability to work in a team;
 + The desire to perform complex tasks;
 + Planning my time;
-***
 
 ### __Languages:__
 
 **My level of English:** A2.  
 **Language practice:** when I was 18, I went to Tunisia, where I spoke only English, my interlocutors had the same level of language as me, so it was not scary and there was no barrier. For more complex words and sentences, I had to use a translator, but rarely.  
-**My level of Korean language:** A1(Beginner).
+**My level of Korean language:** A1(Beginner).  
 ***
