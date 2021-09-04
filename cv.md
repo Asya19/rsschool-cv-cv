@@ -52,4 +52,25 @@ I'm glad that now I can combine what I like and what I get.
 **My level of English:** A2.  
 **Language practice:** when I was 18, I went to Tunisia, where I spoke only English, my interlocutors had the same level of language as me, so it was not scary and there was no barrier. For more complex words and sentences, I had to use a translator, but rarely.  
 **My level of Korean language:** A1(Beginner).  
-***
+
+### __Code:__
+~~~
+function countPositivesSumNegatives(input) {
+  
+  if (input == null || input.length < 1) {
+    return [];
+  }
+
+  let sum = 0;
+  let pos = [];
+
+  for (let i = 0; i < input.length; i++) {
+
+    if(input[i] > 0) 
+      pos.push(input[i]);
+    else 
+      sum += input[i];
+  }
+      return [pos.length, sum];
+}
+~~~
