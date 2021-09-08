@@ -73,4 +73,6 @@ function countPositivesSumNegatives(input) {
   }
       return [pos.length, sum];
 }
-~~~
+~~~  
+
+Thank you to the [RS App](https://rs.school/js/)
