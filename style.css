@@ -454,3 +454,36 @@ td, tr {
 code{
     color: rgb(223, 223, 223);
 }
+
+/*???     footer   ?????*/
+
+.footer-main{
+    width: 1100px;
+    margin: 0px;
+    margin: 0 auto;
+    margin-top: -60px;
+    margin-bottom: 80px;
+    padding: var(--padding-main);
+}
+.header {
+    width: auto;
+    margin-top: 69px;
+}
+.footer-contacts ul {
+    display: flex;
+}
+.footer-contacts {
+    margin-left: 640px;
+    margin-top: -70px;
+}
+.footer-contacts a {
+    margin-left: 20px;
+    list-style-type: none;
+}
+.footer-contacts li {
+    list-style-type: none;
+}
+.header_logo {
+    text-decoration: none;
+    color: #EE0000;
+}
